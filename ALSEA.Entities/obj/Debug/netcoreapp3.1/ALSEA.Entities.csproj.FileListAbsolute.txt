@@ -1,0 +1,12 @@
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/bin/Debug/netcoreapp3.1/ALSEA.Entities.deps.json
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/bin/Debug/netcoreapp3.1/ALSEA.Entities.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/bin/Debug/netcoreapp3.1/ALSEA.Entities.pdb
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/bin/Debug/netcoreapp3.1/ALSEA.Shared.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/bin/Debug/netcoreapp3.1/ALSEA.Shared.pdb
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/obj/Debug/netcoreapp3.1/ALSEA.Entities.csprojAssemblyReference.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/obj/Debug/netcoreapp3.1/ALSEA.Entities.AssemblyInfoInputs.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/obj/Debug/netcoreapp3.1/ALSEA.Entities.AssemblyInfo.cs
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/obj/Debug/netcoreapp3.1/ALSEA.Entities.csproj.CoreCompileInputs.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/obj/Debug/netcoreapp3.1/ALSEA.Entities.csproj.CopyComplete
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/obj/Debug/netcoreapp3.1/ALSEA.Entities.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Entities/obj/Debug/netcoreapp3.1/ALSEA.Entities.pdb

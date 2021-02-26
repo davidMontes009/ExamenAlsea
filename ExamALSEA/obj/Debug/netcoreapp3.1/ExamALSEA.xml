@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExamALSEA</name>
+    </assembly>
+    <members>
+        <member name="M:ExamALSEA.Controllers.CityController.SaveCitiesUser(ExamALSEA.ViewModels.CityByUserViewModel)">
+             <summary>
+             Servicio para registrar una ciudad a un usuario
+             </summary>
+             <param name="cityByUser">MOdelo con la informacion del usuario</param>
+             <returns>Retorna estatus y mensaje </returns>
+             <remarks>
+             Sample Request
+             
+                 POST
+                 {
+                  "userId": 1,
+                  "cityId": 173869
+                 }
+            
+             Sample Response
+            
+                 {
+                  "status": true,
+                  "message": "La ciudad se registro con exito"
+                 }
+             </remarks>
+        </member>
+        <member name="M:ExamALSEA.Controllers.CityController.ConsultCities">
+             <summary>
+             Api para conusltar las ciudades disponibles 
+             </summary>
+             <returns>Retorna lista de ciudades </returns>
+             <remarks>
+             Sample request
+            
+                 GET
+                 El servicio no requiere parametros
+            
+             Sample Response
+            
+                 [
+                  {
+                   "cityId": 173869,
+                   "nameCity": null,
+                   "state": "Al Ghizlaniyah",
+                   "country": "",
+                   "coordLon": "SY",
+                   "coordLat": "36.456169",
+                   "validations": []
+                  },
+                  {
+                   "cityId": 3530,
+                   "nameCity": null,
+                   "state": "Qabaghlu",
+                   "country": "",
+                   "coordLon": "IR",
+                   "coordLat": "46.168499",
+                   "validations": []
+                  }
+                 ]
+             </remarks>
+        </member>
+        <member name="M:ExamALSEA.Controllers.CityController.ConsultUserCities(System.Int32)">
+             <summary>
+             Servicio para consultar las ciudades por usuario 
+             </summary>
+             <param name="userId">Id del usuario </param>
+             <returns>Retorna lista de cuidades </returns>
+             <remarks>
+             Sample Request
+            
+                 GET
+                 userId = 1
+            
+             Sample Response
+            
+                 [
+                  {
+                   "cityId": 173869,
+                   "nameCity": null,
+                   "state": "Al Ghizlaniyah",
+                   "country": "",
+                   "coordLon": "SY",
+                   "coordLat": "36.456169",
+                   "validations": []
+                  },
+                  {
+                   "cityId": 3530,
+                   "nameCity": null,
+                   "state": "Qabaghlu",
+                   "country": "",
+                   "coordLon": "IR",
+                   "coordLat": "46.168499",
+                   "validations": []
+                  }
+                 ]
+             </remarks>
+        </member>
+        <member name="M:ExamALSEA.Controllers.CityController.DeleteCituByUser(ExamALSEA.ViewModels.CityByUserViewModel)">
+             <summary>
+             Servicio para eliminar una cuidad del la lista por usuario 
+             </summary>
+             <param name="cityByUser">Modelo con la info del la cuidad y usuario</param>
+             <returns>Retorna estatus y mensaje</returns>
+             <remarks>
+             Sample Request
+            
+                 DELETE
+                 {
+                  "userId": 1,
+                  "cityId": 173869
+                 }
+            
+             Sample Response
+            
+                 {
+                   "status": true,
+                   "message": "El registro se elimino con exito"
+                 }
+             </remarks>
+        </member>
+        <member name="M:ExamALSEA.Controllers.UserController.RegisterUser(ExamALSEA.ViewModels.UserViewModel)">
+             <summary>
+             API para registrar un usuario 
+             </summary>
+             <param name="userView"> modelo con la informacion del usuario </param>
+             <returns> retorna estatus y mensaje </returns>
+             <remarks>
+             Sample Request
+            
+                 POST
+                 {
+                   "name": "David Montes",
+                   "email": "david@mail.com",
+                   "password": "123qwe"
+                 }
+            
+             Sample Response
+            
+                 {
+                   "status": true,
+                   "message": "El usuario se registro con exito"
+                 }
+             </remarks>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:ExamALSEA.Controllers.UserController.LogIn(System.String,System.String)" -->
+        <member name="T:ExamALSEA.ViewModels.LogInViewModel">
+            <summary>
+            Modelo para mapear y validar la info del logIn
+            </summary>
+        </member>
+        <member name="P:ExamALSEA.ViewModels.LogInViewModel.email">
+            <summary>
+            Correo electronico 
+            </summary>
+        </member>
+        <member name="P:ExamALSEA.ViewModels.LogInViewModel.password">
+            <summary>
+            Contraseña 
+            </summary>
+        </member>
+        <member name="T:ExamALSEA.ViewModels.UserViewModel">
+            <summary>
+            Modelo para recuoerar y validar la información del usuario 
+            </summary>
+        </member>
+        <member name="P:ExamALSEA.ViewModels.UserViewModel.Name">
+            <summary>
+            Nombre
+            </summary>
+        </member>
+        <member name="P:ExamALSEA.ViewModels.UserViewModel.Email">
+            <summary>
+            Correo electronico
+            </summary>
+        </member>
+        <member name="P:ExamALSEA.ViewModels.UserViewModel.Password">
+            <summary>
+            Contraseña d
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Busissnes/ALSEA.Busissnes.csproj": {}
+  },
+  "projects": {
+    "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Busissnes/ALSEA.Busissnes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Busissnes/ALSEA.Busissnes.csproj",
+        "projectName": "ALSEA.Busissnes",
+        "projectPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Busissnes/ALSEA.Busissnes.csproj",
+        "packagesPath": "/Users/davidmontes/.nuget/packages/",
+        "outputPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Busissnes/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/davidmontes/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.DATA/ALSEA.DATA.csproj": {
+                "projectPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.DATA/ALSEA.DATA.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.DATA/ALSEA.DATA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.DATA/ALSEA.DATA.csproj",
+        "projectName": "ALSEA.DATA",
+        "projectPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.DATA/ALSEA.DATA.csproj",
+        "packagesPath": "/Users/davidmontes/.nuget/packages/",
+        "outputPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.DATA/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/davidmontes/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Entities/ALSEA.Entities.csproj": {
+                "projectPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Entities/ALSEA.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Entities/ALSEA.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Entities/ALSEA.Entities.csproj",
+        "projectName": "ALSEA.Entities",
+        "projectPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Entities/ALSEA.Entities.csproj",
+        "packagesPath": "/Users/davidmontes/.nuget/packages/",
+        "outputPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/davidmontes/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Shared/ALSEA.Shared.csproj": {
+                "projectPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Shared/ALSEA.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Shared/ALSEA.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Shared/ALSEA.Shared.csproj",
+        "projectName": "ALSEA.Shared",
+        "projectPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Shared/ALSEA.Shared.csproj",
+        "packagesPath": "/Users/davidmontes/.nuget/packages/",
+        "outputPath": "/Users/davidmontes/Cursos/DemoAlsea/ALSEA.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/davidmontes/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

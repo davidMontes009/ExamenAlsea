@@ -1,0 +1,16 @@
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.Busissnes.deps.json
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.Busissnes.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.Busissnes.pdb
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.DATA.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.Entities.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.Shared.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.DATA.pdb
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.Entities.pdb
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/bin/Debug/netcoreapp3.1/ALSEA.Shared.pdb
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/obj/Debug/netcoreapp3.1/ALSEA.Busissnes.csprojAssemblyReference.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/obj/Debug/netcoreapp3.1/ALSEA.Busissnes.AssemblyInfoInputs.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/obj/Debug/netcoreapp3.1/ALSEA.Busissnes.AssemblyInfo.cs
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/obj/Debug/netcoreapp3.1/ALSEA.Busissnes.csproj.CoreCompileInputs.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/obj/Debug/netcoreapp3.1/ALSEA.Busissnes.csproj.CopyComplete
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/obj/Debug/netcoreapp3.1/ALSEA.Busissnes.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Busissnes/obj/Debug/netcoreapp3.1/ALSEA.Busissnes.pdb

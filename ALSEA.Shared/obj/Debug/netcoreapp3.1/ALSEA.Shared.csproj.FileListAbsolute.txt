@@ -1,0 +1,9 @@
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/bin/Debug/netcoreapp3.1/ALSEA.Shared.deps.json
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/bin/Debug/netcoreapp3.1/ALSEA.Shared.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/bin/Debug/netcoreapp3.1/ALSEA.Shared.pdb
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/obj/Debug/netcoreapp3.1/ALSEA.Shared.csprojAssemblyReference.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/obj/Debug/netcoreapp3.1/ALSEA.Shared.AssemblyInfoInputs.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/obj/Debug/netcoreapp3.1/ALSEA.Shared.AssemblyInfo.cs
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/obj/Debug/netcoreapp3.1/ALSEA.Shared.csproj.CoreCompileInputs.cache
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/obj/Debug/netcoreapp3.1/ALSEA.Shared.dll
+/Users/davidmontes/Projects/ExamALSEA/ALSEA.Shared/obj/Debug/netcoreapp3.1/ALSEA.Shared.pdb
